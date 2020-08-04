@@ -9,7 +9,10 @@
     "eject": "react-scripts eject"
   },
   "dependencies": {
+    "chart.js": "^2.9.3",
     "react": "^16.13.1",
+    "react-chartjs-2": "^2.10.0",
+    "react-countup": "^4.3.3",
     "react-dom": "^16.13.1",
     "react-mobile-sized-view": "^1.0.0",
     "react-scripts": "3.4.1",
